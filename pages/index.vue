@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
   export default {
     data() {
       return {
@@ -29,4 +29,21 @@ computed: {
         <div><img :src="post.url" alt=""></div>
     </li>
   </ul>
+</template> -->
+
+
+<template>
+  <div>
+
+  </div>
 </template>
+
+<script>
+  export default {
+    
+  }
+</script>
+
+<style lang="scss" scoped>
+
+</style>
