@@ -1,14 +1,5 @@
-<script>
-import CustomEdit from "../components/CustomEdit.vue"
-export default {
-  components: {
-    CustomEdit
-  }
-}
-</script>
-
 <template>
   <div>
-    <CustomEdit />
+    <h3 class="text-green-700">Hello this is from about page</h3>
   </div>
 </template>
